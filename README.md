@@ -42,7 +42,8 @@ Where:
 
 ---
 TABULATION:
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/da9b3e86-c964-4672-9f33-bdfb0a6b27c2" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/6f67a3b2-00db-4928-afc4-1da0ed921b76" />
+
 
 
 ## MODEL GRAPH
